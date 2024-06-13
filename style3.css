@@ -1,0 +1,35 @@
+.bg-main {
+  background-color: #212529 !important;
+}
+.bg-1 {
+  background-color: #ceb8a6 !important;
+}
+.bg-2 {
+  background-color: #e9ccb1 !important;
+}
+.bg-3 {
+  background-color: #ebcfc4 !important;
+}
+.bg-4 {
+  background-color: #d3c4be !important;
+}
+.btn-2 {
+  color: #333 !important;
+  background-color: #ebcfc4 !important;
+}
+.btn-2:hover {
+  color: rgb(46, 44, 44) !important;
+  background-color: #c9b1a7 !important;
+}
+.btn-1 {
+  color: #333 !important;
+  background-color: #e9ccb1 !important;
+}
+.btn-1:hover {
+  color: rgb(46, 44, 44) !important;
+  background-color: #ceb59d !important;
+}
+section {
+  min-height: 400px;
+  padding-top: 50px;
+}
